@@ -6,7 +6,7 @@ public class Student {
 	
 	public Student(String name) {
 		super();
-		this.name = name;
+		this.name = "Nat";
 	}
 
 	public String getName() {
